@@ -79,7 +79,8 @@ I'm particularly fascinated by the universe and the scientific questions we are 
 
 ### 🤝 Let's Connect
 
-https://github.com/rimanshi37
-www.linkedin.com/in/rimanshi-baliya-b7536b350
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rimanshi37)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rimanshi-baliya-b7536b350)
 
 Thanks for visiting my profile! ⭐
