@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Rimanshi Baliya
+# Hey there! 👋 I'm Rimanshi
 
 ### 🎓 MSc Data Science Student | 💻 Aspiring Data Scientist | 🔭 Science Enthusiast
 
